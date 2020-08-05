@@ -2,7 +2,9 @@
 title: "weihongtan's website"
 author: "Wei Hong"
 date: "8/3/2020"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
