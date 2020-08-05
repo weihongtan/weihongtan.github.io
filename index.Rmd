@@ -9,22 +9,30 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I am Wei Hong, an innate immunology researcher who is very interested in data science and programming!
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+I have a big dream of becoming a scientist clinician so that I can combine two of my goals together: Helping others and Contributing to science!
 
-```{r cars}
-summary(cars)
-```
+## Interests
 
-## Including Plots
+* Rock climbing
+* Hiking
+* Reading
+* Learning
 
-You can also embed plots, for example:
+## Projects
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* R programming courses on data science
+* Innate immunity
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/wei-hong-tan-707511ba/)
+* [ResearchGate](https://www.researchgate.net/profile/Wei_Hong_Tan4)
+* [GitHub](http://github.com/weihongtan)
+
+## Contact
+
+* [weihong-tan@hotmail.com](mailto:weihong-tan@hotmail.com)
