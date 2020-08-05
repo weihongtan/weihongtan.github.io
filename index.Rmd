@@ -14,6 +14,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![](img/weihong.jpg){width=100px}
+
 ## About
 
 I am Wei Hong, an innate immunology researcher who is very interested in data science and programming!
